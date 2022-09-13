@@ -68,5 +68,8 @@ img {
     top: 48px;
     border-bottom-left-radius: 5px;
     border-bottom-right-radius: 5px;
+}
 
+.list {
+    margin-left: 85px;
 }
