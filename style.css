@@ -63,7 +63,7 @@ img {
     background-color: white;
     max-width: 900px;
     margin: auto;
-    height: 78vh;
+    height: 79vh;
     position: relative;
     top: 48px;
     border-bottom-left-radius: 5px;
@@ -72,4 +72,74 @@ img {
 
 .list {
     margin-left: 85px;
+}
+
+.list-name {
+    font-size: 20px;
+}
+
+.editorial {
+    display: inline-block;
+    background-color: rgb(30, 144, 255);
+    color: white;
+    width: 80px;
+    height: 22px;
+    text-align: center;
+    padding-top: 5px;
+    margin-left: 5px;
+    border-radius: 15px;
+    font-size: 11px;
+
+}
+
+.q1 {
+    display: inline-block;
+    background-color: rgb(147, 112, 219);
+    color: white;
+    width: 80px;
+    height: 22px;
+    text-align: center;
+    padding-top: 5px;
+    margin-left: 5px;
+    border-radius: 15px;
+    font-size: 11px;
+}
+
+.recruiting {
+    display: inline-block;
+    background-color: rgb(102, 205, 170);
+    color: white;
+    width: 80px;
+    height: 22px;
+    text-align: center;
+    padding-top: 5px;
+    margin-left: 5px;
+    border-radius: 15px;
+    font-size: 11px;
+}
+
+.website {
+    display: inline-block;
+    background-color: rgb(255, 105, 180);
+    color: white;
+    width: 80px;
+    height: 22px;
+    text-align: center;
+    padding-top: 5px;
+    margin-left: 5px;
+    border-radius: 15px;
+    font-size: 11px;
+}
+
+.sales {
+    display: inline-block;
+    background-color: rgb(154, 205, 50);
+    color: white;
+    width: 80px;
+    height: 22px;
+    text-align: center;
+    padding-top: 5px;
+    margin-left: 5px;
+    border-radius: 15px;
+    font-size: 11px;
 }
