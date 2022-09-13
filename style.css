@@ -21,7 +21,7 @@ img {
 .container {
     background-color: rgba(211, 211, 211, 0.3);
     width: 100%;
-    height: 115vh;
+    height: 120vh;
 }
 
 .add-button {
@@ -63,7 +63,7 @@ img {
     background-color: white;
     max-width: 900px;
     margin: auto;
-    height: 92vh;
+    height: 98vh;
     position: relative;
     top: 48px;
     border-bottom-left-radius: 5px;
@@ -78,7 +78,15 @@ img {
 .list-name {
     font-size: 20px;
     list-style-type: "\25BC";
+    
 }
+
+.list-name2 {
+    font-size: 20px;
+    list-style-type: "\25BC";
+    margin-top: 30px;
+}
+
 
 .editorial {
     display: inline-block;
@@ -110,6 +118,19 @@ img {
 .recruiting {
     display: inline-block;
     background-color: rgb(102, 205, 170);
+    color: white;
+    width: 80px;
+    height: 22px;
+    text-align: center;
+    padding-top: 5px;
+    margin-left: 5px;
+    border-radius: 15px;
+    font-size: 11px;
+}
+
+.mobile {
+    display: inline-block;
+    background-color: orange;
     color: white;
     width: 80px;
     height: 22px;
@@ -156,12 +177,15 @@ li {
 .v {
     list-style-image: url(img/v.PNG);
     margin-left: 20px;
+    margin-top: 20px;
     
 }
 
 .x {
     list-style-image: url(img/x.PNG);
     margin-left: 20px;
+    margin-top: 20px;
+
 }
 
 
