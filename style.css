@@ -29,6 +29,11 @@ img {
     max-width: 900px;
     margin: auto;
     padding: 20px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    position: relative;
+    top: 45px;
+    
 }
 
 .task-button {
@@ -40,7 +45,7 @@ img {
     text-align: center;
     padding-top: 13px;
     margin-left: 50px;
-    
+    border-radius: 5px;
 }
 
 .section-button {
@@ -51,4 +56,17 @@ img {
     padding-top: 13px;
     border: 1px solid lightgray;
     color: lightgray;
+    border-radius: 5px;
+}
+
+.main-container {
+    background-color: white;
+    max-width: 900px;
+    margin: auto;
+    height: 78vh;
+    position: relative;
+    top: 48px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+
 }
